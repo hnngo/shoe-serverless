@@ -48,6 +48,18 @@ The project folders (`database`, `frontend`, `lambda`) are splitted by their fun
 
 ![Architecture](./images/architecture.png)
 
+## Features
+
+- View shoe details
+- Cart persistence
+- Promotion code
+- View purchase history
+- Place/cancel order
+- Email order confirmation
+- Admin dashboard to add/update/remove shoes/promocode
+- Automatically generate daily sales report
+- Automatically email low stock items to admin
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
