@@ -30,9 +30,7 @@
 - Additionally, the use of more than 15 different AWS services in the infrastructure allows for a robust and reliable system that can handle a large volume of traffic and transactions.
 - Overall, this website provides a seamless and efficient shopping experience for customers while being able to handle a high volume of traffic and transactions.
 
-### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+## Built With
 
 - [![React][react.js]][react-url]
 - [![Material UI][materialui]][materialui-url]
